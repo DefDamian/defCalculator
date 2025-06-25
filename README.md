@@ -34,8 +34,13 @@ This project is modular and includes:
 ---
 
 ## 📸 Screenshots
+![Simulator Screenshot - iPhone 16 Pro Max - 2025-06-25 at 18 50 10](https://github.com/user-attachments/assets/6e75c4ca-33bb-40dd-9ed9-250177caec64)
 
-> _(Insert screenshots here)_
+
+![Simulator Screenshot - iPhone 16 Pro Max - 2025-06-25 at 18 49 58](https://github.com/user-attachments/assets/c6ffeb6b-9245-4eaa-97a0-371fe9d13a4a)
+
+![Simulator Screenshot - iPhone 16 Pro Max - 2025-06-25 at 18 50 39](https://github.com/user-attachments/assets/763a7514-ffdf-49bc-ad08-de9e59fbcca6)
+
 
 ---
 
