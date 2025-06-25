@@ -1,6 +1,6 @@
 # QuickCalculator
 
-[![License: Proprietary](https://img.shields.io/badge/license-Proprietary-red.svg)](LICENSE)
+https://github.com/DefDamian/quickCalculator/blob/main/License
 
 QuickCalculator is a modern and customizable SwiftUI calculator app built with SwiftData, providing both essential and scientific operations. Designed for iOS, it features theming support, a clear and elegant interface, and a responsive layout optimized for both light and dark modes.
 
@@ -43,7 +43,7 @@ This project is modular and includes:
 
 This project is **not open source**. All code, assets, and associated files are proprietary to [DefDamian](https://github.com/DefDamian).
 
-See the [LICENSE](LICENSE) file for details.
+See the (https://github.com/DefDamian/quickCalculator/blob/main/License) file for details.
 
 > ❗ You may not use, modify, distribute, or reproduce this code or its components without express written permission.
 
